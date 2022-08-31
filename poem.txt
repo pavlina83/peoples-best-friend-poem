@@ -1,4 +1,4 @@
-My dog and food
+My dog and food and sleep
 is cute
 is smart
 is small
@@ -6,3 +6,4 @@ is a pain in the ass
 and crazy.
 But I love her.
 and her relationship with food.
+she loves to sleep.
